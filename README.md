@@ -1,5 +1,7 @@
 # Product reorder rate
 
+Elegant solution for calculating the product reorder rate.
+
 __Task:__
 For each product: what proportion of its orders are reorders.
 
